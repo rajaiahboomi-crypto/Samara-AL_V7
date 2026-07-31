@@ -1,0 +1,4 @@
+Upload index.html and 404.html to the ROOT of the Samara-AL_V7 GitHub repository and replace the existing files.
+Then wait 2 minutes and open:
+https://rajaiahboomi-crypto.github.io/Samara-AL_V7/?v=10
+Press Ctrl+Shift+R once.

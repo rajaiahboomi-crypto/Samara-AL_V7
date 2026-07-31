@@ -1,0 +1,11 @@
+UPLOAD ONLY THESE FILES TO THE ROOT OF Samara-AL_V7:
+- index.html
+- 404.html
+- app.js
+- styles.css
+- config.js
+- service-worker.js
+
+Replace existing files and commit. Then open:
+https://rajaiahboomi-crypto.github.io/Samara-AL_V7/?v=11
+Press Ctrl+Shift+R once. The page should show “Cloud multi-user system — V11”.
